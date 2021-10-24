@@ -17,9 +17,7 @@ sections:
       # this is h1
 
 
-      ## this is h2
-
-
+      ## this is h2 some text
 
 
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
